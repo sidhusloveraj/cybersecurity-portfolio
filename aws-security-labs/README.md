@@ -1,14 +1,13 @@
 # AWS Security Labs
 
-This section contains hands-on labs focused on securing cloud infrastructure in Amazon Web Services.
+This folder contains hands-on labs focused on securing cloud infrastructure in Amazon Web Services.
 
-Topics explored include:
+Topics include:
 
-- VPC architecture and network segmentation
-- IAM policies and least privilege access
+- IAM configuration
+- Least privilege access
+- VPC networking
 - Security groups and network ACLs
-- CloudTrail logging and monitoring
-- GuardDuty threat detection
-- Secure cloud architecture design
+- Logging and monitoring
 
-These labs help develop practical cloud security engineering skills.
+These labs help build practical cloud security engineering skills.
