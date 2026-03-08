@@ -1,13 +1,15 @@
 # Packet Analysis
 
-This section focuses on analyzing network traffic to understand how data flows across networks.
+This folder contains labs focused on analysing network traffic to understand how data moves across networks.
 
-Topics explored include:
+Topics covered:
 
 - TCP three-way handshake
-- DNS request and response analysis
-- TLS handshake inspection
-- Identifying suspicious network behavior
-- Packet capture analysis
+- DNS queries and responses
+- TLS handshakes
+- HTTP traffic inspection
+- Detecting suspicious network behaviour
 
-Tools used include Wireshark and tcpdump.
+Tools used:
+- Wireshark
+- tcpdump
