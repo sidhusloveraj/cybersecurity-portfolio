@@ -1,14 +1,15 @@
 # Networking Labs
 
-This section contains networking labs related to my studies for the Cisco Certified Network Associate (CCNA).
+This folder contains hands-on networking labs related to my studies for the Cisco Certified Network Associate (CCNA).
 
-Topics explored include:
+Topics covered include:
 
-- Subnetting and IP addressing
-- DNS resolution and analysis
-- TCP/IP packet inspection
-- Routing fundamentals
+- IP addressing and subnetting
+- Routing and switching fundamentals
+- DNS and DHCP analysis
 - Network troubleshooting
-- Traffic analysis using Wireshark
+- Packet inspection
 
-The goal of these labs is to build a strong networking foundation for cybersecurity and cloud security engineering.
+Tools used:
+- Wireshark
+- Cisco Packet Tracer
