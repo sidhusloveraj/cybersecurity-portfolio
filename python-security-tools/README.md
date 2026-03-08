@@ -1,13 +1,11 @@
 # Python Security Tools
 
-This section contains Python scripts used for cybersecurity automation and analysis.
+This folder contains Python scripts used to automate security and networking tasks.
 
-Projects may include:
+Examples of projects:
 
-- Network scanners
+- Port scanners
 - Log analysis tools
-- Security automation scripts
-- API interaction with cloud security services
-- Simple detection engineering utilities
-
-These projects demonstrate the use of programming to automate security tasks.
+- Network automation scripts
+- API interaction with cloud services
+- Security monitoring utilities
